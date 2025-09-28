@@ -1,6 +1,6 @@
-# 🏡 Gen AI Home Interior Designer
+# ![alt text](FullLogo.jpg) DECO MIND INTERIOR DESIGNING AI
 
-A powerful Gen AI-powered home redesign tool that transforms real-world room or outdoor images into beautifully reimagined interiors or exteriors. Leveraging Google Gemini (Multimodal Generative AI) and FastAPI, this virtual designer allows users to upload a space photo, select design preferences (room type, style, colors), and instantly receive a photorealistic redesign with cost estimation and improvement suggestions.
+A powerful DECO MIND INTERIOR DESIGNING AI tool that transforms real-world room or outdoor images into beautifully reimagined interiors or exteriors. Leveraging Google Gemini (Multimodal Generative AI) and FastAPI, this virtual designer allows users to upload a space photo, select design preferences (room type, style, colors), and instantly receive a photorealistic redesign with cost estimation and improvement suggestions.
 Perfect for real estate visualization, interior decorators, home remodeling inspiration, and furniture retailers.
 
 ---
